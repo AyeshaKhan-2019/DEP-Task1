@@ -1,4 +1,6 @@
-This repository is dedicated to the project created for Frontend web development domain under Digital Empowerment Network (DEN) Internship Program.  This program is a 6-Weeks comprehensive virtual internship that provides interns with valuable hands-on experience and essential practical skills in their chosen domain contributing significantly to interns’ professional growth. 
+This repository is dedicated to the project created for Frontend web development domain under Digital Empowerment Network (DEN) Internship Program.  
+This program is a 6-Weeks comprehensive virtual internship that provides interns with valuable hands-on experience and essential practical skills in their chosen domain contributing significantly to interns’ professional growth. 
+
 During the course of this six weeks virtual internship program, a single task was assigned each week thus making up to six tasks in total. 
 This repository is for the project developed for Task 1
 
