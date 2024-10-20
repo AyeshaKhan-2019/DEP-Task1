@@ -5,4 +5,5 @@ During the course of this six weeks virtual internship program, a single task wa
 This repository is for the project developed for Task 1
 
 Task 1: Designing Responsive Layouts
+
 The task was to develop web layouts that adapt to different screen sizes and devices, ensuring a consistent user experience by utilizing responsive design techniques. Using CSS frameworks like Bootstrap, flexible grid systems and media queries are implemented for a responsive design that renders well on various devices and screen sizes with optimized performance.
